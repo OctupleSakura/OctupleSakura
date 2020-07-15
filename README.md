@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  about me :point_down:<br/>
+  https://blog.octuplesakura.cn
+</p>
 
 <!--
 **OctupleSakura/OctupleSakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
