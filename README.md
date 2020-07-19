@@ -1,6 +1,9 @@
-<p align="center">
-  about me :point_down:<br/>
-  https://blog.octuplesakura.cn
+<p>
+  👺 Love the anime. <br />
+  🤖 Love the game. <br />
+  🎨 Aspire to create. <br />
+  😵 And at a loss now. <br />
+  👉 About me: https://blog.octuplesakura.cn
 </p>
 
 <!--
