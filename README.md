@@ -1,5 +1,5 @@
 <p>
-  <p>
+  <p align="center">
     <a
       href="https://i.loli.net/2020/07/22/S4qNMThjoBGde1t.png"   
       target="__blank"
@@ -10,7 +10,7 @@
       />
     </a>
   </p>
-  <p>
+  <p align="center">
     👺 Love the anime. <br />
     🤖 Love the game. <br />
     🎨 Aspire to create. <br />
