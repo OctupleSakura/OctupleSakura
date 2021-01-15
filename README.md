@@ -17,7 +17,7 @@
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=octuplesakura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octuplesakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octuplesakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 ### :speech_balloon: Site
  https://octuplesakura.cn
