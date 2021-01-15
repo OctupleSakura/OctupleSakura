@@ -1,27 +1,27 @@
-<p>
-  <p align="center">
-    <a
-      href="https://i.loli.net/2020/07/22/S4qNMThjoBGde1t.png"   
-      target="__blank"
-    >
-      <img 
-        src="https://i.loli.net/2020/07/22/S4qNMThjoBGde1t.png" 
-        width="500"
-      />
-    </a>
-  </p>
-  <p align="center">
-    👺 Love the anime. <br />
-    🤖 Love the game. <br />
-    🎨 Aspire to create. <br />
-    😵 And at a loss now. <br />
-  </p>
+### Hi, I'm OctupleSakura 
+![](https://komarev.com/ghpvc/?username=octuplesakura)
+
+  <img 
+    src="https://i.loli.net/2020/07/22/S4qNMThjoBGde1t.png" 
+    width="500"
+  />
+
+### :rabbit: About Me
+
+  - 👺 Love the anime. 
+  - 🤖 Love the game. 
+  - 🎨 Aspire to create. 
+  - 😵 And at a loss now. 
+
+### :notebook_with_decorative_cover: Github Status
   
- ---
-  <p align="center">
-    👇About me <br />
-  https://blog.octuplesakura.cn
-  </p>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=octuplesakura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octuplesakura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+### :speech_balloon: Site
+ https://octuplesakura.cn
+ 
   
 </p>
 
