@@ -5,6 +5,12 @@
     src="https://i.loli.net/2020/07/22/S4qNMThjoBGde1t.png" 
     width="500"
   />
+  
+### :wave: Recent Status  
+
+In order to learn more, we have to leave temporarily.
+
+Look forward to coming back.
 
 ### :rabbit: About Me
 
@@ -39,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
