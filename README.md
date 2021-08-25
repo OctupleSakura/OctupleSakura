@@ -8,7 +8,7 @@
   
 ### :wave: Recent Status  
 
-In order to learn more, we have to leave temporarily.
+In order to learn more, I have to leave temporarily.
 
 Look forward to coming back.
 
