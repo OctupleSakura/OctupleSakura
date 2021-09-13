@@ -10,7 +10,7 @@
 
 In order to learn more, I have to leave temporarily.
 
-Look forward to coming back.
+Look forward to coming back someday.
 
 ### :rabbit: About Me
 
